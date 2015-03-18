@@ -1,10 +1,10 @@
 {
-    "firstname"   : "Fluffy",
-    "lastname"    : "Fluffster",
+    "firstname"   : "Daniel",
+    "lastname"    : "Bartl",
     "dateofbirth" : "01.08.1980",
-    "title"       : "Bachelor of Fluff",
+    "title"       : "Dipl. Betriebswirt (Uni.)",
     "jobtitle"    : "Chief Executive Flufficer",
-    "company"     : "Fluffmazing Co.",
+    "company"     : "comSysto GmbH",
     "contact"     : {
         "landline" : "+99 999 666 333",
         "mobile"   : "+99 999 666 222",
